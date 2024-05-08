@@ -1,4 +1,4 @@
-# WordPrates
+# ArquivoWord
  
 <p align="center">
   <img src="./print/1.jpeg" width="700">
