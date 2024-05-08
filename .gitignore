@@ -1,0 +1,24 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore NuGet package folders
+packages/
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+
+# Ignore project-specific files
+*.csproj.user
+*.resharper.user
